@@ -1,12 +1,7 @@
-## Hi there 👋
+Owner : CAO Bin
 
-<!--
+Hello everyone 👋, here is an open-source organization that supports the book **"An Introduction to Materials Informatics. Zhang Tongyi"**. Our goal is to facilitate teaching and understanding in the field. We welcome your contributions and feedback, especially if you spot any mistakes that need to be corrected.
 
-**Here are some ideas to get you started:**
+If you have any suggestions, comments, or corrections regarding the content of the book, please feel free to share them with us. We appreciate your engagement and help in improving the quality and accuracy of the materials.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Together, we can create a valuable resource for the community and ensure that the book provides accurate and up-to-date information in the field of Materials Informatics. Thank you for your support and participation!
