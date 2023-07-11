@@ -1,4 +1,4 @@
-Owner : CAO Bin
+**Owner : CAO Bin**
 
 Hello everyone 👋, here is an open-source organization that supports the book **"An Introduction to Materials Informatics. Zhang Tongyi"**. Our goal is to facilitate teaching and understanding in the field. We welcome your contributions and feedback, especially if you spot any mistakes that need to be corrected.
 
