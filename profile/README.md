@@ -9,14 +9,11 @@ Together, we can create a valuable resource for the community and ensure that th
 
 ---
 ## Transfer learning links
-+ Instance-based transfer learning
-++ Instance selection (marginal distributions are same while conditional distributions are different)
-
-**TrAdaboost**
-
-++ Instance re-weighting (conditional distributions are same while marginal distributions are different)
-
-**KMM**
+1 : Instance-based transfer learning
+  - Instance selection (marginal distributions are same while conditional distributions are different) :
+  + **TrAdaboost**
+  - Instance re-weighting (conditional distributions are same while marginal distributions are different) :
+  + **KMM**
  
 + Feature-based transfer learning
 ++ Explicit distance :
