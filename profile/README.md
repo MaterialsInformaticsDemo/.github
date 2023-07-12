@@ -5,3 +5,27 @@ Hello everyone 👋, here is an open-source organization that supports the book 
 If you have any suggestions, comments, or corrections regarding the content of the book, please feel free to share them with us. We appreciate your engagement and help in improving the quality and accuracy of the materials.
 
 Together, we can create a valuable resource for the community and ensure that the book provides accurate and up-to-date information in the field of Materials Informatics. Thank you for your support and participation!
+
+
+---
+## Transfer learning links
++ Instance-based transfer learning
+++ Instance selection (marginal distributions are same while conditional distributions are different)
+
+**TrAdaboost**
+
+++ Instance re-weighting (conditional distributions are same while marginal distributions are different)
+
+**KMM**
+ 
++ Feature-based transfer learning
+++ Explicit distance :
+ (marginal distributions are same while conditional distributions are different) TCA(MMD based) ; DAN （M-MMD based)
+ (conditional distributions are same while marginal distributions are different) JDA
+ (Both marginal distributions and conditional distributions are different) DDA
+++ Implicit distance :
+ DANN
+
+Parameter-based transfer learning
+Pretraining + fine tune
+---
