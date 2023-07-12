@@ -11,21 +11,35 @@ Together, we can create a valuable resource for the community and ensure that th
 ## Transfer learning links
 1 : Instance-based transfer learning
   - Instance selection (marginal distributions are same while conditional distributions are different) :
-  TrAdaboost
+    
+  [TrAdaboost](https://github.com/Bin-Cao/TrAdaboost/tree/main/TrAdaBoost)
+
   - Instance re-weighting (conditional distributions are same while marginal distributions are different) :
-  KMM
+    
+  [KMM](https://github.com/Bin-Cao/KMMTransferRegressor)
  
 2 : Feature-based transfer learning
   - Explicit distance:
       - case 1 : marginal distributions are same while conditional distributions are different:
-  TCA(MMD based) ; DAN （M-MMD based)
-      - case 1 : conditional distributions are same while marginal distributions are different) JDA
-      - case 3 : Both marginal distributions and conditional distributions are different) DDA
-      -
+         
+  [TCA(MMD based)](https://github.com/MaterialsInformaticsDemo/TCA)  ; 
+  
+  DAN （M-MMD based)
+  
+      - case 1 : conditional distributions are same while marginal distributions are different)
+      
+      JDA
+      
+      - case 3 : Both marginal distributions and conditional distributions are different)
+      
+      DDA
+      
  - Implicit distance :
+ 
  DANN
 
  3 : Parameter-based transfer learning
+ 
  — Pretraining + fine tune
 
 ---
