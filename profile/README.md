@@ -25,7 +25,6 @@ Together, we can create a valuable resource for the community and ensure that th
   [TCA(MMD based)](https://github.com/MaterialsInformaticsDemo/TCA)  ; 
   
   DAN(M-MMD based)
-  
       - case 1 : conditional distributions are same while marginal distributions are different)
       
       JDA
