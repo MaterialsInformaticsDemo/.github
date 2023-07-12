@@ -21,9 +21,11 @@ Together, we can create a valuable resource for the community and ensure that th
   TCA(MMD based) ; DAN （M-MMD based)
       - case 1 : conditional distributions are same while marginal distributions are different) JDA
       - case 3 : Both marginal distributions and conditional distributions are different) DDA
-++ Implicit distance :
+      -
+ - Implicit distance :
  DANN
 
-Parameter-based transfer learning
-Pretraining + fine tune
+ 3 : Parameter-based transfer learning
+ — Pretraining + fine tune
+
 ---
