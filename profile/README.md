@@ -37,6 +37,6 @@ Together, we can create a valuable resource for the community and ensure that th
 
  3 : Parameter-based transfer learning
  
- — Pretraining + fine tune
+   — Pretraining + fine tune
 
 ---
