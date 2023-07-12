@@ -12,11 +12,11 @@ Together, we can create a valuable resource for the community and ensure that th
 1 : Instance-based transfer learning
   - Instance selection (marginal distributions are same while conditional distributions are different) :
     
-  [TrAdaboost](https://github.com/Bin-Cao/TrAdaboost/tree/main/TrAdaBoost)
+    [TrAdaboost](https://github.com/Bin-Cao/TrAdaboost/tree/main/TrAdaBoost)
 
   - Instance re-weighting (conditional distributions are same while marginal distributions are different) :
     
-  [KMM](https://github.com/Bin-Cao/KMMTransferRegressor)
+    [KMM](https://github.com/Bin-Cao/KMMTransferRegressor)
  
 2 : Feature-based transfer learning
   - Explicit distance:
@@ -33,7 +33,7 @@ Together, we can create a valuable resource for the community and ensure that th
       
  - Implicit distance :
  
- DANN
+   DANN
 
  3 : Parameter-based transfer learning
  
