@@ -22,7 +22,7 @@ Together, we can create a valuable resource for the community and ensure that th
   - Explicit distance:
       - case 1 : marginal distributions are same while conditional distributions are different:
         
-         [TCA(MMD based)](https://github.com/MaterialsInformaticsDemo/TCA)  ; DAN(M-MMD based)
+         [TCA(MMD based)](https://github.com/MaterialsInformaticsDemo/TCA)  ; [DAN(M-MMD based)](https://github.com/MaterialsInformaticsDemo/DAN)
       - case 1 : conditional distributions are same while marginal distributions are different)
       
         JDA
