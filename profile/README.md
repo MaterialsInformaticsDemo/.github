@@ -6,6 +6,7 @@ If you have any suggestions, comments, or corrections regarding the content of t
 
 Together, we can create a valuable resource for the community and ensure that the book provides accurate and up-to-date information in the field of Materials Informatics. Thank you for your support and participation!
 
+![截屏2023-07-14 13 52 09](https://github.com/MaterialsInformaticsDemo/.github/assets/86995074/9589e0b8-c382-45ee-a56f-a4924b9469a1)
 
 ---
 ## Transfer learning links
