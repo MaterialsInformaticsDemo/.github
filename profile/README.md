@@ -14,6 +14,7 @@ Together, we can create a valuable resource for the community and ensure that th
 </h1>
 
 
+**Click to buy the book** : [An Introduction to Materials Informatics](https://mp.weixin.qq.com/s/YxhDDObYvBvyRBdKd2kIcA)
 
 ---
 ## Transfer learning links
