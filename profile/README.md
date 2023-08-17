@@ -13,6 +13,10 @@ Together, we can create a valuable resource for the community and ensure that th
   <br>
 </h1>
 
+``` javascript
+If you are using this code, please cite :
+Zhang Tong-yi. An Introduction to Materials Informatics[J]. 2022. GitHub : github.com/MaterialsInformaticsDemo.
+```
 
 **Click to buy the book** : [An Introduction to Materials Informatics(I)](https://mp.weixin.qq.com/s/YxhDDObYvBvyRBdKd2kIcA)
 
