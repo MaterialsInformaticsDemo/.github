@@ -13,7 +13,7 @@ Together, we can create a valuable resource for the community and ensure that th
   <br>
 </h1>
 
-If you are using this code, please cite :
+If you have utilized code from our organization, we kindly request that you provide proper attribution by citing the source：
 
 ``` javascript
 Zhang Tong-yi. An Introduction to Materials Informatics[J]. 2022. GitHub : github.com/MaterialsInformaticsDemo.
