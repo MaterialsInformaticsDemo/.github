@@ -13,11 +13,7 @@ Together, we can create a valuable resource for the community and ensure that th
   <br>
 </h1>
 
-If you have utilized code from our organization, we kindly request that you provide proper attribution by citing the source：
 
-``` javascript
-Bin CAO. Codes for Materials Informatics[J]. 2023. GitHub : github.com/MaterialsInformaticsDemo.
-```
 
 **Click to buy the book** : [An Introduction to Materials Informatics(I)](https://mp.weixin.qq.com/s/YxhDDObYvBvyRBdKd2kIcA)
 
