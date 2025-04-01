@@ -1,6 +1,6 @@
 
 
-Hello everyone 👋, here is an open-source organization that supports the book **"An Introduction to Materials Informatics. Prof. Zhang Tong-yi"**. Our goal is to facilitate teaching and understanding in the field. We welcome your contributions and feedback, especially if you spot any mistakes that need to be corrected.
+Hello everyone 👋, here is an open-source organization that supports the book **"An Introduction to Materials Informatics. Prof. Zhang Tong-yi"**. Our goal is to facilitate teaching and understanding in the field. We welcome your contributions and feedback, especially if you spot any mistakes that need to be corrected. [Book](https://link.springer.com/book/10.1007/978-981-99-7992-9)
 
 If you have any suggestions, comments, or corrections regarding the content of the book, please feel free to share them with us. We appreciate your engagement and help in improving the quality and accuracy of the materials.
 
